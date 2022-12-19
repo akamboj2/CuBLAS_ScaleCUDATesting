@@ -1,4 +1,4 @@
-#ScaleCUDA testing
+# ScaleCUDA testing
 
 This code was created to test [ScaleCUDA](https://github.com/akamboj2/scalehls/tree/scalecuda). Mainly mmul1.cu and madd.cu were used as baselines. 
 
