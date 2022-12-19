@@ -1,9 +1,6 @@
-Here you could find the code for "Matrix multiplication on GPU using CUDA with CUBLAS, CURAND and Thrust", for more informations visit the project webpage:
+#ScaleCUDA testing
 
+This code was created to test [ScaleCUDA](https://github.com/akamboj2/scalehls/tree/scalecuda). Mainly mmul1.cu and madd.cu were used as baselines. 
+
+Note this repo was adapted from: 
 http://solarianprogrammer.com/2012/05/31/matrix-multiplication-cuda-cublas-curand-thrust/
-
-You could use this program under the terms of GPL v3, for more details see:
-
-http://www.gnu.org/copyleft/gpl.html
-
-Copyright 2012 Sol from www.solarianprogrammer.com
